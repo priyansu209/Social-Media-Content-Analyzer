@@ -1,4 +1,5 @@
 # Social-Media-Content-Analyzer
+## Project Link: https://priyansu209.github.io/Social-Media-Content-Analyzer/
 ## Approach :-
 The Social Media Content Analyzer was developed as a client-side web application using HTML, CSS, and JavaScript. It leverages PDF.js for text extraction from PDF files and Tesseract.js for OCR on image formats such as PNG, JPEG. The application supports both drag-and-drop and manual file upload, ensuring ease of use.
 
